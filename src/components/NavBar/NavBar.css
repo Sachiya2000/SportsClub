@@ -1,0 +1,13 @@
+.navBar{
+    background-color: #2a5677;
+    color: #fff;
+}
+.ulcolor{
+    color: #fff;
+}
+.navbar-nav .nav-link {
+    color: #fff;
+  }
+  .navbar-nav {
+    justify-content: flex-end;
+  }

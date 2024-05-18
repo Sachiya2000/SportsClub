@@ -1,0 +1,31 @@
+.club-box{
+    background-color: #F3F3F3;
+  width: 360px !important;
+  height: 252px;
+  box-sizing: border-box;
+  margin: auto;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  padding-top: 20px;
+ 
+}
+.club-box h2{
+    color: #464646;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 39px;
+}
+.club-box p{
+    color: #787878;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+}
+.main-h1{
+    font-size: 50px;
+    line-height: 67px;
+    font-weight: 700;
+    text-align: center;
+    color: #2A5778;
+    margin-bottom: 20px;
+}

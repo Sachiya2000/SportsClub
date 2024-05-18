@@ -1,0 +1,14 @@
+.trigger-button {
+    /* Style the trigger button here */
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .popup-content {
+    /* Style the popup content here */
+    font-size: 16px;
+  }
+  
